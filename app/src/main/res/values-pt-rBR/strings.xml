@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="entrarText">Entrar</string>
+    <string name="senhaText">Senha</string>
+    <string name="cadastrarText">olamundi</string>
+    <string name="termoText">Aceito todos os termos</string>
+    <string name="modotelaButton">Modo Noturno</string>
+    <string name="emailText">Email</string>
+    <string name="Searchtext">Pesquisar</string>
+    <string name="text">Digite um texto</string>
+    <string name="Send_Button">Enviar</string>
+</resources>

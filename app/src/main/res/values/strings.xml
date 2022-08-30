@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="cadastrarText">Olá Mundo</string>
+    <string name="entrarText">Sign in</string>
+    <string name="senhaText">Password</string>
+    <string name="termoText">Accept all terms.</string>
+    <string name="modotelaButton">Night Mode</string>
+    <string name="emailText">Email</string>
+    <string name="Searchtext">Search</string>
+    <string name="text">Write a Text</string>
+    <string name="Send_Button">Send</string>
+</resources>
